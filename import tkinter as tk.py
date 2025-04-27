@@ -1,3 +1,6 @@
+#raw file just the python file to see how the managment is done to run the proper project execute PROJECT folder
+
+
 import tkinter as tk
 from tkinter import messagebox, filedialog, simpledialog, ttk
 import os
